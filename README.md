@@ -7,7 +7,7 @@
 Este projeto é sobre incentivar a brincadeira coletiva por meio do desenho colaborativo. A proposta é oferecer um espaço onde crianças possam se expressar e se conectar com outras, evitando o isolamento social, que pode ser um gatilho para problemas emocionais como ansiedade e depressão. </p>
 <hr>
 
-<img align="right" style="margin: 10px" alt="image-gif" width="200" src="image/gif.gif">
+<img align="right" style="margin: 10px" alt="image-gif" width="200" src="public/assets/image/gif.gif">
 
 <p align="left" style="text-align: justify;">
     &nbsp;&nbsp;&nbsp;&nbsp; Meu nome é <b>Anne Yukari</b> e este é o meu primeiro projeto individual como aluna do 1º semestre na SPTech. Tenho 23 anos e meu hobby favorito é desenhar, principalmente no estilo mangá.<br>
