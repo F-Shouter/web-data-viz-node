@@ -34,3 +34,13 @@ img {
   font-size: 30px;
   text-align: center;
 }
+.avatar button {
+  border-radius: 100%;
+  border: 5px solid #ffffff;
+  width: 95px;
+  height: 95px;
+  background-image: url(/public/assets/image/1.png);
+  background-size: cover;      
+  background-position: center;  
+  background-repeat: no-repeat; 
+}
